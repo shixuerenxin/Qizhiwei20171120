@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CategoryDemo/CategoryDemo.iml" filepath="$PROJECT_DIR$/CategoryDemo/CategoryDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JPushExample(766067)/JPushExample(766067).iml" filepath="$PROJECT_DIR$/JPushExample(766067)/JPushExample(766067).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Qizhiwei20171120.iml" filepath="$PROJECT_DIR$/Qizhiwei20171120.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/classifyadapter/classifyadapter.iml" filepath="$PROJECT_DIR$/classifyadapter/classifyadapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jpushtest/jpushtest.iml" filepath="$PROJECT_DIR$/jpushtest/jpushtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qizhiwei20171121/qizhiwei20171121.iml" filepath="$PROJECT_DIR$/qizhiwei20171121/qizhiwei20171121.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qizhiwei20171122q/qizhiwei20171122q.iml" filepath="$PROJECT_DIR$/qizhiwei20171122q/qizhiwei20171122q.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qizhiwei20171211/qizhiwei20171211.iml" filepath="$PROJECT_DIR$/qizhiwei20171211/qizhiwei20171211.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shoppingcartest/shoppingcartest.iml" filepath="$PROJECT_DIR$/shoppingcartest/shoppingcartest.iml" />
+    </modules>
+  </component>
+</project>
